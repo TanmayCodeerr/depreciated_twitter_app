@@ -1,33 +1,30 @@
-SB Admin v2.0 rewritten in React.js
-Join the chat at https://gitter.im/start-react/sb-admin-react
+# Modern Twitter Clone App made in React.js for practice
+# Content
+- Installation
+- All npm packages used
+# Installation
+ 1. Download the zip folder of this project clicking on Code > Download Zip
+ 2. Make sure you have [npm](https://www.npmjs.com/) installed globally, more details [here](https://nodejs.org/en/download)
+ 3. Unzip the folder inside another folder or in your desired path
+ 4. On the CLI inside VS Code or other IDLE run the following commands
+ ```sh
+ $ cd twitter_modern_clone_app-main
+ ```
+```sh
+ $ npm i
+ ```
+```sh
+ $ npm run dev
+ ```
+Running these commands will start the application automatically...
 
-This project is a port of the famous Free Admin Bootstrap Theme SB Admin v2.0 to React.js Theme based on React Starter Kit using ES6 & Webpack.
+Now have fun testing and using it !...
 
-Find out more Free React.js and React Native Themes at StartReact.com.
+# Npm packages and other utilities
 
-Demo
-Installation
-####1. Clone this project or Download that ZIP file
+### I have installed [FontAwesome](https://docs.fontawesome.com/web/use-with/react/) package for adding icons to this app...
 
-$ git clone https://github.com/start-react/sb-admin-react.git
-####2. Make sure you have npm installed globally
+### That's the only main package for now
 
-More details here https://nodejs.org/en/download/
 
-####3. On the command prompt run the following commands
-
-$ cd `project-directory`
-$ npm install
-$ npm start
-####4. To build
-
-$ npm run build
-####5. To clean up old build products
-
-$ npm run clean
-Roadmap
-Add sample AJAX calls (using Flux / Reflux) and make the components more modular
-Lazy loading of Pages
-MobX integration
-Automation tools used
-Webpack
+New packages will be added as I develop...
