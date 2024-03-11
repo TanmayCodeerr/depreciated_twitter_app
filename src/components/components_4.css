@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-sidebar-div{
+    position: absolute;
+    background: pink;
+    right: 0;
+    width: 300px;
+}
