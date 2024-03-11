@@ -57,7 +57,7 @@
 
 import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import './components.css'
+import './Navbar.css'
 
 import { faTwitter } from '@fortawesome/free-brands-svg-icons'
 // import {} from '@fortawesome/free-regular-svg-icons'     still important when needed
