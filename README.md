@@ -1,8 +1,33 @@
-# React + Vite
+SB Admin v2.0 rewritten in React.js
+Join the chat at https://gitter.im/start-react/sb-admin-react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a port of the famous Free Admin Bootstrap Theme SB Admin v2.0 to React.js Theme based on React Starter Kit using ES6 & Webpack.
 
-Currently, two official plugins are available:
+Find out more Free React.js and React Native Themes at StartReact.com.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Demo
+Installation
+####1. Clone this project or Download that ZIP file
+
+$ git clone https://github.com/start-react/sb-admin-react.git
+####2. Make sure you have npm installed globally
+
+More details here https://nodejs.org/en/download/
+
+####3. On the command prompt run the following commands
+
+$ cd `project-directory`
+$ npm install
+$ npm start
+####4. To build
+
+$ npm run build
+####5. To clean up old build products
+
+$ npm run clean
+Roadmap
+Add sample AJAX calls (using Flux / Reflux) and make the components more modular
+Lazy loading of Pages
+MobX integration
+Automation tools used
+Webpack
