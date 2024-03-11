@@ -3,7 +3,7 @@
 - Installation
 - All npm packages used
 # Installation
- 1. Download the zip folder of this project clicking on Code > Download Zip
+ 1. Download the zip folder of this project by clicking on Code > Download Zip
  2. Make sure you have [npm](https://www.npmjs.com/) installed globally, more details [here](https://nodejs.org/en/download)
  3. Unzip the folder inside another folder or in your desired path
  4. On the CLI inside VS Code or other IDLE run the following commands
